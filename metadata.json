@@ -1,0 +1,8 @@
+{
+  "name": "Crown of Capitals - Chinese Ancient Architecture",
+  "description": "Explore the majestic architectural heritage of China's ancient capitals like Xi'an, Luoyang, and Beijing. Features interactive maps, AI-powered guides, and deep historical insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
